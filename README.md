@@ -22,7 +22,7 @@
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
    <img alt="React" src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white"></img>
    <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-563D7C?style=for-the-badge&logo=gatsby&logoColor=white"></img>
-   <img alt="Gatsby" src="https://img.shields.io/badge/Strapi-E34F26?style=for-the-badge&logo=Strapi&logoColor=white"></img>
+   <img alt="strapi" src="https://img.shields.io/badge/Strapi-FCC624?style=for-the-badge&logo=Strapi&logoColor=white"></img>
    
 </p>
 
